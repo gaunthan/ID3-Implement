@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1480518908 source:e:\lab\cpplang\id3\sample.cc
+	"Sample.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<iterator>
+	<cstdlib>
+
+1480517609 e:\lab\cpplang\id3\sample.h
+	<iosfwd>
+	<vector>
+	<list>
+	<string>
+
+1480518863 source:e:\lab\cpplang\id3\testbench.cc
+	"Sample.h"
+	"DecisionTree.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1480339668 source:e:\lab\cpplang\id3\main.cc
+	"Sample.h"
+
+1480505069 source:e:\lab\cpplang\id3\decisiontree.cc
+	"DecisionTree.h"
+	<set>
+	<algorithm>
+	<functional>
+	<utility>
+	<cmath>
+	<iostream>
+	<string>
+
+1480493344 e:\lab\cpplang\id3\decisiontree.h
+	"Sample.h"
+	<iosfwd>
+	<memory>
+
