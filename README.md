@@ -4,14 +4,14 @@
 A sample implement of ID3 algorithm, based on a bird flu samples, coded by C++ 11.
 
 ## Samples
-### region
+### records
 The samples are seven records of whether having bir flu and the features.
 
 All the records are shown by the following picture:
 
 ![](./Screenshots/samples.png)
 
-### storage
+### record file
 For easily access the records, I use number to identify the states of features.Each number's meaning can be found in the above picture.
 
 The records are storaged in the file './source/samples.txt', which has the following content:
